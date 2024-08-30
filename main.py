@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf
 
-# loading data
+# loading the data
 mnist = tf.keras.datasets.mnist
 (x_train, y_train),(x_test, y_test) = mnist.load_data()
 
