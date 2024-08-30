@@ -1,7 +1,7 @@
 import os
 import cv2
 import matplotlib.pyplot as plt
-import  numpy as np
+import numpy as np
 import tensorflow as tf
 
 # loading data
